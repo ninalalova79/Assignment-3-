@@ -1,0 +1,5 @@
+print('Get Name')
+print('String Name')
+print('What is your name?')
+print('Nina Lalova Toncheva')
+print('Hello, my name is Nina')

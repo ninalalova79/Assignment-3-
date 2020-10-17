@@ -1,0 +1,12 @@
+# Python program to find Area of Rectangle #
+width = float(input("Please Enter the Width of a Reactangle:"))
+height = float(input("Please enter the Height of a Rectangle:"))
+
+# calculate the Area
+Area = width * height
+
+# calculate the Perimeter
+Perimeter = 2 * (width + height)
+
+print("\n Area of a Rectangle is: %.2f" %Area)
+print(" Perimeter of Rectangle is: %.2f" %Perimeter)
